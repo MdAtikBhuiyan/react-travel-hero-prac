@@ -88,7 +88,7 @@ const Header = ({ setCurrentPlace, currentPlace }) => {
 
                     spaceBetween={20}
                     navigation={true}
-                    loop={true}
+                    // loop={true}
                     slidesPerView = {3}
                     breakpoints={{
                         1024: {
